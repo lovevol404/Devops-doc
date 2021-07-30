@@ -1,7 +1,7 @@
 # Devops-Doc
-收集、分类、整合各个公司的CICD建设之路，帮助后来人少走弯路
+收集、分类、整合各个公司的Devops建设之路，帮助后来人少走弯路
 
-# 什么是CICD
+# 什么是Devops&CICD
 1. redhat:[CI/CD是什么？如何理解持续集成、持续交付和持续部署](https://www.redhat.com/zh/topics/devops/what-is-ci-cd)
 # 一些商业参考平台
 1. [阿里云-云效](https://thoughts.aliyun.com/sharespace/5e86a419546fd9001aee81f2/docs/5e8c438e546fd9001aee824b)
